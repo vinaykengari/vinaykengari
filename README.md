@@ -72,6 +72,6 @@
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vinay-kengari-9a95002b0)
-- 📧 Email: [Vinay](mailto:vinayk102004@gmail.com)
+- 📧 [Email](mailto:vinayk102004@gmail.com)
 
 ---
