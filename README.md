@@ -46,6 +46,11 @@
 📄 **Description**: A gesture-based web launcher that detects hand signs using webcam input and opens predefined websites based on recognized gestures.  
 🔗 [View Project Repository](https://github.com/vinaykengari/HandGestureWebLauncher)
 
+
+🐍 SnakeGame
+🔧 Tech Stack: Python, Tkinter, Canvas
+📄 Description: A classic Snake game built using Python’s Tkinter library. The player controls the snake to eat food, grow in size, and avoid collisions with the walls or itself. Real-time movement and scoring are handled with smooth UI updates using the Canvas widget.
+🔗 [View Project Repository](https://github.com/vinaykengari/SnakeGame)
 ---
 
 ### 📊 GitHub Stats
